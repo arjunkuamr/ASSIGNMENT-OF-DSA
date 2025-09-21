@@ -1,0 +1,2 @@
+18. Write a program that takes three numbers as input and 
+finds the middle (second largest) number.

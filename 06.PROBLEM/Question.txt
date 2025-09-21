@@ -1,0 +1,2 @@
+Write a program to input a character from the user and print 
+its ASCII code. 

@@ -1,0 +1,2 @@
+21. Create a program that takes a number (1-7) as input and 
+prints the corresponding day of the week. 

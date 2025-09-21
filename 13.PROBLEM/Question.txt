@@ -1,0 +1,3 @@
+13. Develop a program that takes a student's score (0-100) as 
+input and prints the corresponding grade (e.g., A, B, C, D, F) 
+based on a grading scale. 

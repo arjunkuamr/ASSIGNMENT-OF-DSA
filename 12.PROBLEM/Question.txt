@@ -1,0 +1,4 @@
+
+12. Create a program that takes a person's age as input and 
+classifies them into different age groups (e.g., child, 
+teenager, adult, senior). 

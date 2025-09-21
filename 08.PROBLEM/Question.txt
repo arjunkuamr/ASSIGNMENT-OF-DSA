@@ -1,0 +1,2 @@
+8. Write a program to input three characters from the user and 
+display characters with their corresponding ASCII codes. 

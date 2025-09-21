@@ -1,0 +1,2 @@
+7. Write a program to input an ASCII code from the user and 
+print its corresponding character.
